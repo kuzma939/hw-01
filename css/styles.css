@@ -1,0 +1,14 @@
+.main-page {
+position: relative;
+width: 1440px;
+height: 2592px;
+background: #FFFFFF;
+}
+.header {
+box-sizing: border-box;
+position: absolute;
+width: 1440px;
+height: 72px;
+background: #FFFFFF;
+
+}
