@@ -2,16 +2,21 @@
 
 }
 .font-family {
-
+background: #FFFFFF;
 }
 .header {
-
+background: #FFFFFF;
 }
 .header-nav {
 
 }
 .header-logo {
-
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 21px;
+color: #4D5AE5;
 }
 .header-list {
 font-family: 'Roboto';
@@ -226,7 +231,7 @@ color: #434455;
 
 }
 .section-team {
-
+background: #F4F4FD;
 }
 .section-team-title {
     font-family: 'Roboto';
