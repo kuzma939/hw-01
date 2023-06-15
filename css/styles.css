@@ -1,9 +1,30 @@
 .main-page {
 
 }
-.font-family {
-background: #FFFFFF;
+.body {
+font-family: Montserrat,sans-serif;
+color: #111111;
+font-size: 14px;
+line-height: 1.29;
+letter-spacing: -0.02em;
 }
+/* Resets */
+.list,
+ul,
+ol {
+    list-style: none;
+}
+.link,
+a {
+    text-decoration: none;
+    color: currentColor;
+}
+.btn,
+button {
+    font-family: inherit;
+    cursor: pointer;
+}
+/*Base styles*/
 .header {
 background: #FFFFFF;
 }
@@ -17,6 +38,10 @@ font-weight: 800;
 font-size: 18px;
 line-height: 21px;
 color: #4D5AE5;
+}
+.header-logo-stydio {
+letter-spacing: 0.03em;
+color: #2E2F42;
 }
 .header-list {
 font-family: 'Roboto';
