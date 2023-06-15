@@ -84,7 +84,7 @@ color: #404bbf;
 
 }
 .section-hero {
-
+background-color: #2e2f42;
 }
 /*Hero image*/
 .hero-title {
@@ -96,6 +96,7 @@ color: #404bbf;
         text-align: center;
         letter-spacing: 0.02em;
         color: #FFFFFF;
+    
 }
 .hero-btn {
     font-family: 'Roboto';
